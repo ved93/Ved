@@ -10,11 +10,8 @@ I work at the intersection of consumer data & tech to build ML systems **to help
 ### 📝 Recent Writing
 
 <!-- writing starts -->
-* [What I Do During A Data Science Project To Ensure Success](https://eugeneyan.com//writing/what-i-do-during-a-data-science-project-to-ensure-success/) - Sun, 12 Jul 2020
-* [How to Update a GitHub Profile README Automatically](https://eugeneyan.com//writing/how-to-update-github-profile-readme-automatically/) - Sun, 12 Jul 2020
-* [When Giving It Your 100% Gets You Less than 85%](https://eugeneyan.com//writing/when-giving-your-100-gets-you-less-than-85/) - Thu, 09 Jul 2020
-* [My Notes From Spark+AI Summit 2020 (Application-Specific Talks)](https://eugeneyan.com//writing/notes-from-sparkai-summit-application-specific/) - Sun, 05 Jul 2020
-* [My Notes From Spark+AI Summit 2020 (Application-Agnostic Talks)](https://eugeneyan.com//writing/notes-from-sparkai-summit-application-agnostic/) - Sun, 28 Jun 2020
+* [How to improve performance of Neural Networks](https://d4datascience.wordpress.com/2016/09/29/fbf/) 
+ 
 <!-- writing ends -->
 
 View the archives at [d4datascience](https://d4datascience.wordpress.com/).
@@ -23,3 +20,4 @@ View the archives at [d4datascience](https://d4datascience.wordpress.com/).
 
 <a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
 • [Email](mailto:vpved93@gmail.com) • [Twitter](https://twitter.com/Vedthedataguy) • [LinkedIn](https://www.linkedin.com/in/vedthedataguy)  
+

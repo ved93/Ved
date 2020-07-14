@@ -33,10 +33,10 @@ def fetch_writing():
 if __name__ == '__main__':
     readme_path = root / 'README.md'
     readme = readme_path.open().read()
-    entries = fetch_writing()[:5]
-    entries_md = '\n'.join(
-        ['* [{title}]({url}) - {published}'.format(**entry) for entry in entries]
-    )
-    rewritten = replace_chunk(readme, 'writing', entries_md)
+    # entries = fetch_writing()[:5]
+    # entries_md = '\n'.join(
+    #     ['* [{title}]({url}) - {published}'.format(**entry) for entry in entries]
+    # )
+    # rewritten = replace_chunk(readme, 'writing', entries_md)
 
-    readme_path.open('w').write(rewritten)
+    # readme_path.open('w').write(rewritten)
