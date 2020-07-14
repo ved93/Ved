@@ -2,7 +2,7 @@
 
 I work at the intersection of consumer data & tech to build ML systems **to help customers**. I also write about effective data science, learning, and career **to help readers**. Currently a Data Scientist at Urbanclap solving some core problems in marketplace.
 
-- 🔭 I’m currently working on ML & Lead Score and Productivity Loss.
+- 🔭 I’m currently working on Automating ML & Lead Score and Productivity Loss.
 - 🌱 I’m currently learning more DL, Designing Scalable Systems, and how to communicate data-science effectively in org and public speaking. 
 - 🤔 I’m looking for help with `applied-ml` in startups.
 
