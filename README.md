@@ -5,7 +5,6 @@ I work at the intersection of consumer data & tech to build ML systems **to help
 - 🔭 I’m currently working on ML & Lead Score and Productivity Loss.
 - 🌱 I’m currently learning more DL, Designing Scalable Systems, and how to communicate data-science effectively in org and public speaking. 
 - 🤔 I’m looking for help with `applied-ml` in startups.
- 
 
 
 ### 📝 Recent Writing
