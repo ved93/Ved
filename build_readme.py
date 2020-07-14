@@ -19,7 +19,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 
 def fetch_writing():
-    entries = feedparser.parse('https://eugeneyan.com/feed')['entries'][:5]
+    entries = feedparser.parse('https://d4datascience.wordpress.com/feed')['entries'][:5]
     return [
         {
             'title': entry['title'],
