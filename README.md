@@ -18,10 +18,8 @@ View the archives at [d4datascience](https://d4datascience.wordpress.com/).
 
 ---
 
-<a href="https://github.com/eugeneyan/eugeneyan/actions"><img src="https://github.com/eugeneyan/eugeneyan/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
+<a href="https://github.com/ved93/ved93/actions"><img src="https://github.com/ved93/ved93/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
 • [Email](mailto:vpved93@gmail.com) • [Twitter](https://twitter.com/Vedthedataguy) • [LinkedIn](https://www.linkedin.com/in/vedthedataguy)  
-<<<<<<< HEAD
 
 :dart:	
-=======
->>>>>>> 7f44efc1d01c8257e1a8d219514fc5ae3c6e8f04
+ 
