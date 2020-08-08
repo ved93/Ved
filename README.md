@@ -4,7 +4,7 @@ I work at the intersection of consumer data & tech to build ML systems **to help
 
 - 🔭 I’m currently working on Automating ML & Lead Score and Productivity Loss.
 - 🌱 I’m currently learning more DL, Designing Scalable Systems, and how to communicate data-science effectively in org. 
-- 🤔 I’m looking for help with `applied-ml` in startups. Little crazy about productivity hacks. Share if you got one.
+- 🤔 I’m looking for help with `applied-ml` in startups. Little crazy about productivity hacks. Share if you got one. Currently, optimizing learning rate, reading speed and better writing
 
 
 ### 📝 Recent Writing
