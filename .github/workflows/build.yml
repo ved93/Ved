@@ -38,6 +38,7 @@ jobs:
         # Optional content type (defaults to text/plain):
         content_type: text/html
         # Optional attachments:
+        attachments: requirements.txt
         # attachments: attachments.zip,git.diff,./dist/static/main.js
     - name: Commit and push if changed
       run: |-
