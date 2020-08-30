@@ -1,10 +1,10 @@
 ### 👋 Hi, I'm Ved.
 
-I work at the intersection of consumer data & tech to build ML systems **to help customers**. I also write about effective data science, learning, and career **to help readers**. Currently a Data Scientist at Urbanclap solving some core problems in marketplace.
+I work at the intersection of consumer data & tech to build ML systems to help customers. I also write about effective data science, learning, and career to help readers. Currently a Data Scientist at Urbanclap solving some core problems in marketplace.
 
-- 🔭 I’m currently working on Automating ML & Lead Score and Productivity Loss.
+- 🔭 I’m currently working on Automating ML, Systemic Data Science, Lead Score and Productivity Loss.
 - 🌱 I’m currently learning more DL, Designing Scalable Systems, and how to communicate data-science effectively in org. 
-- 🤔 I’m looking for help with `applied-ml` in startups. Little crazy about productivity hacks. Share if you got one. Currently, optimizing learning rate, reading speed and better writing
+- 🤔 I’m looking for help with `applied-ml` in startups. Little crazy about productivity hacks. Share if you got one. Currently, Building second brain(Zettelcasten), optimizing learning rate, reading speed and better writing
 
 
 ### 📝 Recent Writing
