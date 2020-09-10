@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ved.
 
-I work at the intersection of consumer data & tech to build ML systems to help customers. I also write about effective data science, learning, and career to help readers. Currently a Data Scientist at Urbanclap solving some core problems in marketplace.
+I work at the intersection of data, business & product. I have been building data products from 5+ years. I also write about effective data science, learning, and career. Currently a Data Scientist at Urbanclap solving some core problems in marketplace.
 
 - 🔭 I’m currently working on Automating ML, Systemic Data Science, Lead Score and Productivity Loss.
 - 🌱 I’m currently learning more DL, Designing Scalable Systems, and how to communicate data-science effectively in org. 
@@ -18,8 +18,8 @@ View the archives at [d4datascience](https://d4datascience.wordpress.com/).
 
 ---
 
-<a href="https://github.com/ved93/ved93/actions"><img src="https://github.com/ved93/ved93/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/vedthedataguy?label=Follow&style=social)](https://twitter.com/vedthedataguy)![Profile Views](https://gpvc.arturio.dev/vpved93)<a href="https://github.com/ved93/ved93/actions"><img src="https://github.com/ved93/ved93/workflows/Build%20README/badge.svg?branch=master" align="right" alt="Build README"></a>
 • [Email](mailto:vpved93@gmail.com) • [Twitter](https://twitter.com/Vedthedataguy) • [LinkedIn](https://www.linkedin.com/in/vedthedataguy)  
-
+ 
 :dart:	
  
