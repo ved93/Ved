@@ -4,7 +4,7 @@ I work at the intersection of data, business & product. I have been building dat
 
 - 🔭 I’m currently working on Automating ML, Systemic Data Science, Lead Score and Productivity Loss.
 - 🌱 I’m currently learning more DL, Designing Scalable Systems, and how to communicate data-science effectively in org. 
-- :raising_hand: Follower of Agile Data Science
+- :raising_hand: Evangelist of Agile Data Science
 - 🤔 I’m looking for help with `applied-ml` in startups. Little crazy about productivity hacks. Share if you got one. Currently, Building second brain(Zettelcasten), optimizing learning rate, reading speed and better writing
 
 
