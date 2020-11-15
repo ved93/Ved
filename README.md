@@ -14,6 +14,8 @@ I work at the intersection of data, business & product. I have been building dat
 ### 📝 Recent Writing
 
 <!-- writing starts -->
+* [Problem-Solving in Data Science](https://ved93.github.io/d4datascience/kaggle/notes/learning/2020/09/28/Problem-Solving-in-Data-Science.html)
+* [Agile Data Science](https://ved93.github.io/d4datascience/team/data%20science/2020/08/13/agile-data-science.html)
 * [How to improve performance of Neural Networks](https://d4datascience.wordpress.com/2016/09/29/fbf/) 
  
 <!-- writing ends -->
