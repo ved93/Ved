@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ved.
 
-I work at the intersection of data, business & product. I have been building data products from 5+ years. I also write about effective data science, learning, and career. Currently a Data Scientist at Urbanclap solving some core problems in marketplace.
+I work at the intersection of data, business & product. I have been building data products from 7+ years. I also write about effective data science, learning, and career. Currently a Data Scientist at Urbanclap solving some core problems in marketplace.
 
 - 🔭 I’m currently working on Automating ML, Systemic Data Science, Lead Score and Productivity Loss.
 - 🌱 I’m currently learning more DL, Designing Scalable Systems, and how to communicate data-science effectively in org. 
